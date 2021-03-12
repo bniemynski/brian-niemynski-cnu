@@ -17,3 +17,4 @@ Within the different icons that you click on may give you additional information
 
 Another cool feature to this project is the 3D simulation you can walk through. This feature allows you to comtrol "yourself" as you walk through a 3D virtually rendered Gulag Camp. The developers took all of the pictures they ccaptured to create this camp to be as realistic as possible. One issue that the readers may run into for this simulation is that a computer with high RAM is required. 
 ![3D Simulation of Gulag Camp](http://app.johanies.cz.s3.amazonaws.com/production/image/2020/06/02/17/01/13/eafa768b-950d-4362-a429-d05ffd4ab76f/4c.2.%20MDroga_barak_rekonstrukcja_02.jpg)
+
