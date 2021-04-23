@@ -4,6 +4,8 @@
 My grant project that I had proposed initially was a podcast talking about different events in history that deserved to be implemented into VR. These events could have to do with history, science, or sports. My inspiration for my project had been from a case study that I had read about earlier in the class. I had read about a Martin Luther King Jr. speech that had been created in VR. MLKJ's "Fill Up the Jails" speech had no previous video or audio recordings done. The creators of the project combined today's power of technology and the past's history to make something special. 
 
 The MLKJ project caught my attention and made my decision easy on what my project should be. I am also a huge fan of podcasts. Most of the podcasts that I listen to are about sports, video games, and just dudes being dudes. After reading about the VR project, I instantly thought about the idea of merging a podcast and the wonders that can be done in virtual reality. 
+![MLK Project](https://bniemynski.github.io/brian-niemynski-cnu/images/MLKProject.png)
+
 
 After meeting with Dr. Stover my project did change a little bit. She had suggested that I change the idea of my podcast from talking about events that should be put in VR to talk about events that are already in VR and review them on my own. Once she talked about that idea, I thought it was a good idea right away. She also gave me a few links during our meeting to give me a jumpstart on my project.
 
